@@ -18,7 +18,6 @@ async function buscarPokemon(pokemon) {
     return dados;
   }
 
-  return null;
 }
 
 async function exibirPokemon(pokemon) {
